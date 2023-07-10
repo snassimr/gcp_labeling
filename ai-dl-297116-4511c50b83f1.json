@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-dl-297116",
+  "private_key_id": "4511c50b83f1900e7068b6e7f053042a21615356",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUe9vCGppazMjM\n1sGjZCf+IGAiUhai76xICb3gJsAfiAd3p5JKJ1dgGJP2mTsWEXl2ExucRotXAANP\nsTKTCTGl7BgXts797dMQDM8sv30++5TgW4Su8y3b2u3fLV0855wYplNON4qIZc2U\n65QjSrWiJFyUTnhI+GpJPbxsTfZNiVe6Kco7HtomDLw8JPKsz4652B2hnQsPKnCo\nT5wrNScHOFFiuTTKFW/PCGjAj76780mXFT2KqOGsNPiHdKfqgrWEz3sRVzgA6JTK\nxVTG5fdFEYuK5seYG1cc96YtRuq7tDx9NrSw4uVyYrs0MFpfo2uef5jFgRsZ7FYJ\nZtJuw1brAgMBAAECggEAA5fezIngeLZAKiSVPtdcFACU50DJO6anO8LsDo736Gcr\nBcKxV3+WS3xnch8+b/j6wGUb6j4j/fY485/9PwczkDYOIolPwz21Bl1f7KTuVUp9\nXobVPu53rJpV3rlA4fBmZGliRXFDgwFuFTg0f/gjs/qhOKY7OBb6nvMOBDomXMZJ\nZ9iMfPGV56HUMgcRlaBI5v2evfa0fbaYIjHbH2qbTbmhcUWpxGAZ7Kot2H4kbJ/B\nJTLEq20Ez8cwODZ26sB+se3j/vn5MfgfK8INa819WnAJbCEHgFKCkKDH4cKaQiuC\nQfMKvNwG92YRWuzcZ+aLZRSp4HIEuoF3INgkMn9COQKBgQDNgfc08g50GxIRScqO\nca2szgq97xgrfAcq+LYASfWlmE2DUT0Ii8gcVG/zu2iskxWQ17xRPbuO593KZP9s\n7g0N5WiMQvAyY1bis3bcyrxVcj+Ri7gJdDytJQAaKCmnrgqLwJAQAuDZtVlpog+q\nyUjDmS2yHSTpN0NV7QHNUrWB2QKBgQC49zPsPGRM0O26gODTzsoownnn5E2FOjdZ\no4GdRGKHkpyIyGfl5yXlyqbb7V4E/PhGLUIvS1uYtBok154Nk8eQ0Ove6uGQBcrj\nuWmfR+WsJPM9cnv5rDSAYxzdWyxFROpVO1Bfv+SkegF0UcICshwIe/C4LeJPBFv/\n56d6l68gYwKBgGUxnRfuJV3YwqHOszZHFd0krDdwl3c6IJFxXLVxtcsv3uNNyn79\nzbDdhy7+VoG7/3+OK8XZXxT0acsyxm/OHJF+KGgAwiQdtHf3JQ19qxVsJ480vI+z\nM/mSYaV/p1tRIRJF5OptcGjjmr6gNZTEftcKA21UWouYUcjq5ttC4eupAoGBAK/H\nbfbRpdhCrcoSdJeV7BU0TLoOA4XbP4LWmnUk6iZBNLXhDqw0MZXiMxTKzhEbf67h\nkAZ2LUQ/1KCysKfii0Oa6K3etiIy/w/Pwwr2PtSMAQWiaSNrfjGM/392B+qEhdYe\nGlIEgXu13u/2StRZA78kWi4OnQXO9MeMFWOyB2JVAoGACrTU2oLSgeO7OKgfM805\nh4/BK2g1XN2REQg5UwcSGXlGa3qimEOx0nm4w+/xOQL3SuA8JkBw/B+juHcYej0I\nfDJcQEOHvYJ7Mx/wQNK4HlT1qQDrGR38XzOZwth0E2/7qT1ezPgHLqxuU3ELU6R2\nBrPE9PwvoWjx0rkohTU3FjQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "matatov-nissim-labeling@ai-dl-297116.iam.gserviceaccount.com",
+  "client_id": "107381805518087494048",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/matatov-nissim-labeling%40ai-dl-297116.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

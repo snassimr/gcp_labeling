@@ -1,0 +1,5 @@
+{"imageGcsUri":"gs://label-studio-images/la_003_40.png","boundingBoxAnnotations":[{"displayName":"Heart","xMin":0.2903225806451613,"xMax":0.4761290322580645,"yMin":0.2812903225806452,"yMax":0.447741935483871,"annotationResourceLabels":{"aiplatform.googleapis.com/annotation_set_name":"1698123141332598784"}}],"dataItemResourceLabels":{}}
+{"imageGcsUri":"gs://label-studio-images/la_003_0.png","boundingBoxAnnotations":[{"displayName":"Heart","xMin":0.2154838709677419,"xMax":0.44,"yMin":0.2838709677419355,"yMax":0.5083870967741936,"annotationResourceLabels":{"aiplatform.googleapis.com/annotation_set_name":"1698123141332598784"}}],"dataItemResourceLabels":{}}
+{"imageGcsUri":"gs://label-studio-images/la_003_60.png","boundingBoxAnnotations":[],"dataItemResourceLabels":{}}
+{"imageGcsUri":"gs://label-studio-images/la_003_80.png","boundingBoxAnnotations":[],"dataItemResourceLabels":{}}
+{"imageGcsUri":"gs://label-studio-images/la_003_20.png","boundingBoxAnnotations":[],"dataItemResourceLabels":{}}
